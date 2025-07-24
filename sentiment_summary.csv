@@ -1,0 +1,18 @@
+project-id,label,sentiment_score,confidence,reasoning
+004917c7001841928e49d8fad91a6a57,neutral,0.6,0.85,The team member is actively working and seeking feedback on their implementations.
+03885c1cbc3f444fa6a00163d3cc1671,frustrated,-0.6,0.95,"The text is repeated and seems urgent, suggesting potential frustration or pressure."
+0fe790b4623e4800ae76487194e724b0,encouraged,0.95,0.98,"The communicator repeatedly mentions prioritizing and completing the task on time, expressing appreciation for feedback, and indicating adjustments have been made."
+283888fa4c71452a8574fe890ad2a162,motivated,0.8,0.95,The sender is motivated as they are taking immediate action and expressing a desire for 'a lot of swag' to hand out at the Vintage Fashion Expo.
+3b2691c9f3f04eada4ee62c7b0bd8802,neutral,0.5,0.9,"While the message expresses importance, it lacks specific details about the progress or issues, making it neutral."
+3db6ecd66ab4427d86caa9629ae18629,neutral,0.7,0.9,The employee provides updates on progress and expresses confidence in the work done.
+56107f6c45154df9a68fe04d909e750c,encouraged,0.8,0.9,Project is on track to be completed today as promised.
+5bc8457674ce41f7b7a48dee2b91a3a6,encouraged,0.9,0.95,The team is progressing ahead of schedule and the number of changes required is minimal.
+60489f33d24f4e82850ac5e9a16ae64b,concerned,-0.5,0.9,"No progress reported, which could indicate potential delays or issues"
+64114a12f796455fb728849ec9c5f424,neutral,0.5,0.9,The update provides information about scheduling but lacks details about progress or issues.
+779ca0c083184336abef873a7d83e702,concerned,-0.6,0.95,The project has not progressed as expected and the deadline is nearing
+8405f1fc24684169bea92c11fd33adff,motivated,0.95,0.98,The speaker is expressing confidence in the completion of the project and is motivated to complete it by tomorrow.
+8bcc598c1a3c4438bc7f78ddb6283987,motivated,0.85,0.95,The project is delayed but the team is motivated by the expectation that the final product will win awards.
+99c5ebaa3e364e3e83327457929cafce,motivated,0.9,0.95,The text indicates a positive outlook towards an upcoming significant sales event and the need to prepare for shipping mailers.
+d319c820fae14f60885b2edfd0c3f68d,motivated,0.9,0.85,Positive feedback about visual quality improvement
+d36e94b2ae8c41d9a22abda688c54482,confused,0.4,0.95,"The speaker mentions two different deadlines, creating confusion about the current status and the new requested deadline."
+dad470e644bd419694699bf2fa855f05,encouraged,0.9,0.95,Positive feedback and encouragement about the creative aspect of the project.

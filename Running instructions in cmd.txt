@@ -1,0 +1,16 @@
+create virtual environment:
+	python -m venv venv
+
+
+activate virtual environment:
+	venv\Scripts\activate.bat
+
+
+install libraries:
+	pip install flask pandas numpy scikit-learn joblib requests matplotlib dirtyjson
+
+run the server:
+	python predict_health_api.py
+
+to set port and run ollama server in cmd:
+	set OLLAMA_HOST=127.0.0.1:11435
